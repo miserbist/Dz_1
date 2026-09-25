@@ -1,0 +1,66 @@
+commit f89ab95c12600d900f75f3c50f8c6569768a49b0 (HEAD -> master, origin/master)
+Merge: 7fe144c 6f33ca4
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:07:37 2026 +0300
+
+    MergeTest1
+
+commit 6f33ca4fff46910467cb29b1cb45e5225dd1bd6a (origin/stick, stick)
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:05:42 2026 +0300
+
+    StickCommit2
+
+commit 7fe144cee7af4511559f5b5fb49bb914d117fba3
+Merge: 049a463 112a1ff
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:04:56 2026 +0300
+
+    ConflictCommit1
+
+commit 049a463b8fc0a03c823ba1e4c15327747e678ac5
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:03:40 2026 +0300
+
+    MasterCommit1
+
+:
+commit f89ab95c12600d900f75f3c50f8c6569768a49b0 (HEAD -> master, origin/master)
+Merge: 7fe144c 6f33ca4
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:07:37 2026 +0300
+
+    MergeTest1
+
+commit 6f33ca4fff46910467cb29b1cb45e5225dd1bd6a (origin/stick, stick)
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:05:42 2026 +0300
+
+    StickCommit2
+
+commit 7fe144cee7af4511559f5b5fb49bb914d117fba3
+Merge: 049a463 112a1ff
+:
+commit f89ab95c12600d900f75f3c50f8c6569768a49b0 (HEAD -> master, origin/master)
+Merge: 7fe144c 6f33ca4
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:07:37 2026 +0300
+
+    MergeTest1
+
+commit 6f33ca4fff46910467cb29b1cb45e5225dd1bd6a (origin/stick, stick)
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:05:42 2026 +0300
+
+    StickCommit2
+
+commit 7fe144cee7af4511559f5b5fb49bb914d117fba3
+Merge: 049a463 112a1ff
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:04:56 2026 +0300
+
+    ConflictCommit1
+
+commit 049a463b8fc0a03c823ba1e4c15327747e678ac5
+Author: miserbist <miserbist412@gmail.com>
+Date:   Thu Sep 24 23:03:40 2026 +0300
